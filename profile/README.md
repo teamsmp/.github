@@ -2,8 +2,8 @@
 
 **UNITE, SURVIVE, THRIVE!**
 
-![GitHub followers](https://img.shields.io/github/followers/Team-SMP?style=flat&logo=github)
-![Total GitHub Stars](https://img.shields.io/github/stars/Team-SMP?style=flat&logo=github&label=total%20stars)
+![GitHub followers](https://img.shields.io/github/followers/teamsmp?style=flat&logo=github)
+![Total GitHub Stars](https://img.shields.io/github/stars/teamsmp?style=flat&logo=github&label=total%20stars)
 
 Welcome to the official GitHub organisation of the Team SMP Minecraft server!
 
